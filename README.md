@@ -5,11 +5,11 @@ An all-in-one Python library to scrap, parse and crawl web pages
 This is a light-weight, dynamic and highly-flexible Python library. It can be used to **crawl, download, index, parse, scrap and analyze web pages** in a systematic manner or any of the individual functionality. It is also used to **clean web pages, normalize web pages, store web data, extract server-side information** and **import/export relevant components** from the web. Some of the other features also include **downloading images from a web page, downloading google images and spidering wikipedia articles**.
 
 ### Usage and Instructions
-For usage and instructions please visit the [Official Documentation](https://github.com/hardikvasa/webb/blob/master/docs/Documentation.md)
+For usage and instructions please visit the [Official Documentation](https://github.com/ironwill1023/webb/blob/master/docs/Documentation.md)
 
-For issues and discussion visit the [Issue Tracker](https://github.com/hardikvasa/webb/issues)
+For issues and discussion visit the [Issue Tracker](https://github.com/ironwill1023/webb/issues)
 
-For sample codes and examples, please visit [Examples Codes](https://github.com/hardikvasa/webb/tree/master/examples)
+For sample codes and examples, please visit [Examples Codes](https://github.com/ironwill1023/webb/tree/master/examples)
 
 
 ### Compatability
